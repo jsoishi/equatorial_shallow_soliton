@@ -1,0 +1,5 @@
+scratch
+frames
+.ipynb_checkpoints
+*~
+slurm-*
